@@ -5,7 +5,7 @@
 //let lista=document.querySelector('#listaWhile');
 //console.log(lista);
 
-//agrego esto para que lo muestre el git status
+""
 //grupos sanguineos: 0- A- B - AB // Factor Rh+ o Rh -
 //let grupoSanguineo="A";
 //switch - case
